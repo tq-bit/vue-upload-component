@@ -15,7 +15,7 @@
 				<p class="upload-footer-file-name">{{ file.name }}</p>
 				<small class="upload-footer-file-size">Size: {{ file.size }} kb</small>
 			</div>
-			<button class="upload-footer-button">
+			<button @click="handleFileupload" class="upload-footer-button">
 				{{ footerText || 'Upload' }}
 			</button>
 		</div>
