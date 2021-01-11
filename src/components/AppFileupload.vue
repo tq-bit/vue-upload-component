@@ -35,6 +35,7 @@ export default {
 			file: {
 				name: 'MyScreenshot.jpg',
 				size: 281923,
+				value: ''
 			},
 		};
 	},
