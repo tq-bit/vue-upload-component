@@ -14,4 +14,4 @@ $ npm install
 $ npm run serve
 ```
 
-Then, open your browser, navigate to http://127.0.0.1:8080 and start building.
+Then, open your browser and navigate to 127.0.0.1:8080 and start building.
